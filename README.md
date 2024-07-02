@@ -1,1 +1,1 @@
-@copyright Gyanshu
+@copyright Team Parul University
